@@ -4,4 +4,4 @@
 
 ## Usage
 You can click this button to start using
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirpps/simple-gooogle-osint/blob/main/osint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sirpps/simple-google-osint/blob/main/osint.ipynb)
